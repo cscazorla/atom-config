@@ -2,6 +2,7 @@
   "atom-beautify":
     _analyticsUserId: "7454c350-2ed1-4b8c-b6ca-0f76bb8a8687"
   editor:
+    fontSize: 16
     invisibles:
       cr: false
       eol: false
