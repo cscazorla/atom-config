@@ -7,7 +7,9 @@
       cr: false
       eol: false
       tab: "⇥"
-    showInvisibles: true
+    showIndentGuide: true
+    softTabs: false
+    tabType: "hard"
   emmet: {}
   "exception-reporting":
     userId: "407df239-bc3b-45fd-747f-dbd346b662ae"
