@@ -1,0 +1,18 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "7454c350-2ed1-4b8c-b6ca-0f76bb8a8687"
+  editor:
+    invisibles:
+      cr: false
+      eol: false
+      tab: "⇥"
+    showInvisibles: true
+  emmet: {}
+  "exception-reporting":
+    userId: "407df239-bc3b-45fd-747f-dbd346b662ae"
+  welcome:
+    showOnStartup: false
+".blade.html.php.text":
+  editor:
+    commentEnd: " --}}"
+    commentStart: "{{-- "
