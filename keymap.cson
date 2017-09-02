@@ -26,6 +26,9 @@
 # Atom Flight Manual:
 # https://atom.io/docs/latest/using-atom-basic-customization#cson
 'atom-text-editor':
+  'cmd-shift-a': 'editor:auto-indent'
   'ctrl-alt-a': 'editor:auto-indent'
 'atom-text-editor[data-grammar="text html php"]:not([mini])':
     'tab': 'emmet:expand-abbreviation-with-tab'
+'atom-text-editor[data-grammar~="latex"]':
+    'cmd-shift-x': 'latex:build'
