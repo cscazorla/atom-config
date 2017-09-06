@@ -66,4 +66,7 @@
         'body': '\\\\includegraphics[width=${1:0.8}\\\\textwidth]{img/$2}'
     'vector':
         'prefix': 'vector'
-        'body': '\\\\overrightarrow{$1}'
+        'body': '\\\\vec{$1}'
+    'vspace':
+        'prefix': 'vspace'
+        'body': '\\\\vspace{$1}'
