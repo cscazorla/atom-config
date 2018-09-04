@@ -5,15 +5,17 @@
     disabledPackages: [
       "spell-check"
     ]
+    telemetryConsent: "no"
   editor:
     fontSize: 16
     invisibles:
-      cr: false
-      eol: false
+      cr: true
+      eol: true
       tab: "⇥"
-    showIndentGuide: true
+    showInvisibles: true
     softTabs: false
-    tabType: "hard"
+    tabLength: 4
+    tabType: "soft"
   emmet: {}
   "exception-reporting":
     userId: "407df239-bc3b-45fd-747f-dbd346b662ae"
