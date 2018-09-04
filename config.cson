@@ -1,6 +1,10 @@
 "*":
   "atom-beautify":
     _analyticsUserId: "7454c350-2ed1-4b8c-b6ca-0f76bb8a8687"
+  core:
+    disabledPackages: [
+      "spell-check"
+    ]
   editor:
     fontSize: 16
     invisibles:
