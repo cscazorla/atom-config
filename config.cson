@@ -1,6 +1,10 @@
 "*":
   "atom-beautify":
     _analyticsUserId: "7454c350-2ed1-4b8c-b6ca-0f76bb8a8687"
+  "atom-latex":
+    build_after_save: false
+    combine_typesetting_log: false
+    custom_toolchain: "%TEX %ARG %DOC && %TEX %ARG %DOC"
   core:
     disabledPackages: [
       "spell-check"
@@ -19,6 +23,14 @@
   emmet: {}
   "exception-reporting":
     userId: "407df239-bc3b-45fd-747f-dbd346b662ae"
+  latex:
+    enableExtendedBuildMode: false
+    enableSynctex: false
+    loggingLevel: "error"
+    moveResultToSourceDirectory: false
+    openResultAfterBuild: false
+    openResultInBackground: false
+    opener: "pdf-view"
   "project-manager":
     alwaysOpenInSameWindow: true
   welcome:

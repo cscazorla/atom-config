@@ -32,3 +32,5 @@
     'tab': 'emmet:expand-abbreviation-with-tab'
 'atom-text-editor[data-grammar~="latex"]':
     'cmd-shift-x': 'latex:build'
+    'ctrl-alt-b': 'atom-latex:build'
+    'ctrl-alt-c': 'atom-latex:clean'
