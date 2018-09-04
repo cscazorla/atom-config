@@ -6,3 +6,4 @@ dev
 .apm
 packages
 blob-store
+projects.cson
