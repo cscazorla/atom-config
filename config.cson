@@ -17,6 +17,8 @@
   emmet: {}
   "exception-reporting":
     userId: "407df239-bc3b-45fd-747f-dbd346b662ae"
+  "project-manager":
+    alwaysOpenInSameWindow: true
   welcome:
     showOnStartup: false
 ".blade.html.php.text":
